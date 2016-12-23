@@ -1,0 +1,63 @@
+/* load the default Redmine stylesheet */
+@import url(../../../stylesheets/application.css);
+
+
+/**  priority style  **/ 
+
+/* lowest priority */
+a.priority-lowest{
+  border:1px solid #d1d1d1;
+  color:white !important;
+  background-color:#6fe65f;
+  padding:2px;  
+}
+.priority-lowest .priority{
+  color:white !important;
+  background-color:#6fe65f;
+  padding:2px;  
+}
+/* FIN lowest priority */
+
+/* Normal priority */
+a.priority-default{
+  border:1px solid #d1d1d1;
+  color:white !important;
+  background-color:#03a271;
+  padding:2px;  
+}
+.priority-default .priority{
+  color:white !important;
+  background-color:#03a271;
+  padding:2px;  
+}
+/* FIN Normal priority */
+
+/* High priority */
+a.priority-high2{
+  border:1px solid #d1d1d1;
+  color:white !important;
+  background-color:#fb5a5a;
+  padding:2px;  
+}
+.priority-high2 .priority{
+  color:white !important;
+  background-color:#fb5a5a;
+  padding:2px;  
+}
+/* FIN High priority */
+
+/* Highest priority */
+a.priority-highest{
+  border:1px solid #d1d1d1;
+  color:white !important;
+  background-color:#fd0101;
+  padding:2px;  
+}
+.priority-highest .priority{
+  color:white !important;
+  background-color:#fd0101;
+  padding:2px;  
+}
+/* FIN Highest priority */
+
+/**  Fin priority style  **/ 
