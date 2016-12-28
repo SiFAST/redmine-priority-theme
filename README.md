@@ -45,6 +45,9 @@ Le thème spécifique SiFAST est déposé sur GitHub : [https://github.com/SiFAS
 
 Ce thème spécifique SiFAST est basé sur le thème par défaut de Redmine qu'on a pris comme point de départ, ensuite on y a ajouté le changement de couleur du numéro de ticket en fonction de la priorité du ticket.
 
+## Imprimer ecran Thème Sifast
+
+
 ## Liens utiles
 * http://www.redmine.org/projects/redmine/wiki/Theme_List
 * http://www.redmine.org/projects/redmine/wiki/HowTo_create_a_custom_Redmine_theme
