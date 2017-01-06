@@ -40,13 +40,10 @@ Il suffit de mettre votre javascript dans '''javascripts/theme.js''' et il sera 
 Allez dans "Administration -> Paramètres" et sélectionnez votre thème nouvellement créé dans la liste déroulante "Thème". Enregistrez vos paramètres.
 Si vous utilisez une version Redmine inférieure à 1.1.0, vous devrez peut-être redémarrer l'application afin qu'elle s'affiche dans la liste des thèmes disponibles.
 
-## Thème Sifast 
+## Thème SiFAST 
 Le thème spécifique SiFAST est déposé sur GitHub : [https://github.com/SiFAST/redmine-priority-theme GitHub]
 
 Ce thème spécifique SiFAST est basé sur le thème par défaut de Redmine qu'on a pris comme point de départ, ensuite on y a ajouté le changement de couleur du numéro de ticket en fonction de la priorité du ticket.
-
-## Imprimer ecran Thème Sifast
-
 
 ## Liens utiles
 * http://www.redmine.org/projects/redmine/wiki/Theme_List
