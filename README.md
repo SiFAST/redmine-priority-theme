@@ -3,7 +3,7 @@ Redmine fournit un support de base pour les thèmes.
 Les thèmes Redmine peuvent uniquement remplacer les feuilles de style (comme application.css).
 
 ## Installation d'un thème
-1. Tout d'abord, copiez le répertoire-thème dans '''/public/themes/'''. Cela résulterait en un chemin d'accès au répertoire application.css comme : '''/public/themes/<themename>/stylesheets/application.css'''
+1. Tout d'abord, copiez le répertoire-thème dans '''/public/themes/'''. Cela résulterait en un chemin d'accès au répertoire comme suit : '''/public/themes/theme-priority-sifast/'''
 2. Vous devrez peut-être redémarrer Redmine afin qu'il affiche le thème nouvellement installé dans la liste des thèmes disponibles
 3. Allez dans "Administration" -> "Paramètres" -> "Affichage" et sélectionnez votre thème nouvellement créé dans la liste déroulante "Thème". Enregistrez vos paramètres.
 
